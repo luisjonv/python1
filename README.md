@@ -6,3 +6,4 @@ Lista de Alumnos:
 - Carlos Gabriel Gonzalez
 - Boris Mendoza
 - Antonio Hernandez
+- Luis José Nava
